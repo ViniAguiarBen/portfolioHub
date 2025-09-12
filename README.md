@@ -51,6 +51,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+Para uma visualização mais detalhada das minhas competências técnicas e comportamentais, preparei a seguinte apresentação:
+
+**[➡️ Acessar Apresentação de Habilidades no Google Slides](https://docs.google.com/presentation/d/1V80374CVTPotrLjCkGWz4E7LAwPr5pXL8tnc_HG6hJ0/edit?usp=sharing)**
+
 ###
 
 <h2 align="left">📜Meus Projetos</h2>
@@ -59,7 +63,9 @@
 
 <p align="left">Direk → Sistema de Controle do Fluxo de Produção de Marcenarias, gestão de pedidos, automações e controle de funções<br>Tecnologias:  AWS, Laravel, MySQL, Tailwind<br>Link: https://direk.com.br<br><br>Automação IQVC, Saúde → Scripts para processar formulários de Controle de Qualidade de Vida e integrar com planilhas dinâmicas<br>Tecnologias: Python, Google API<br><br><br>🔒 Observação: Os projetos são privados por questões comerciais. Caso queira saber mais, entre em contato comigo.</p>
 
-### 📄 Currículo
+### 
+
+📄 Currículo
 
 Meu currículo completo, com detalhes sobre formação acadêmica, experiências profissionais e certificações, está disponível para visualização e download.
 
