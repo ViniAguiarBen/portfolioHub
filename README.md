@@ -1,7 +1,10 @@
 <h1 align="left">👋 Olá, eu sou o Vinicius!</h1>
 
 ###
-
+<a href="https://vaguiarb.dev" target="_blank">
+  <img src="./preview.png" alt="Preview do site vaguiarb.dev" width="100%">
+</a>
+###
 <p align="left">💻 Desenvolvedor FullStack | Laravel • Tailwind• Python<br>  🚀 Criando soluções, adquirindo experiências e transformando ideias em realidade<br>  🌎 Brasília - DF | 📧 viniciusaguiarbenvinda@gmail.com</p>
 
 ###
