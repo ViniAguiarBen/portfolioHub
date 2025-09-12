@@ -1,7 +1,7 @@
 <h1 align="left">👋 Olá, eu sou o Vinicius!</h1>
 
 ###
-<a href="https://vaguiarb.dev" target="_blank" class="preview-link">
+<a href="https://vaguiarb.dev" target="_blank">
   <img src="./preview_site.png" alt="Preview do site vaguiarb.dev">
 </a>
 
