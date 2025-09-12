@@ -62,6 +62,6 @@
 
 ###
 
-<p align="left">🌐 Portfólio → https://vaguiarb.dev<br>💼 LinkedIn → https://linkedin.com/in/vinicius-aguiar000<br>📧 Email → viniciusaguiarbenvinda@gmail.com</p>
+<p align="left">🌐 Site Pessoal → https://vaguiarb.dev<br>💼 LinkedIn → https://linkedin.com/in/vinicius-aguiar000<br>📧 Email → viniciusaguiarbenvinda@gmail.com</p>
 
 ###
