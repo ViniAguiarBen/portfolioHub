@@ -59,6 +59,12 @@
 
 <p align="left">Direk → Sistema de Controle do Fluxo de Produção de Marcenarias, gestão de pedidos, automações e controle de funções<br>Tecnologias:  AWS, Laravel, MySQL, Tailwind<br>Link: https://direk.com.br<br><br>Automação IQVC, Saúde → Scripts para processar formulários de Controle de Qualidade de Vida e integrar com planilhas dinâmicas<br>Tecnologias: Python, Google API<br><br><br>🔒 Observação: Os projetos são privados por questões comerciais. Caso queira saber mais, entre em contato comigo.</p>
 
+### 📄 Currículo
+
+Meu currículo completo, com detalhes sobre formação acadêmica, experiências profissionais e certificações, está disponível para visualização e download.
+
+**[➡️ Acessar Currículo em PDF](https://vaguiarb.dev/assets/curriculo.pdf)**
+
 ###
 
 <h2 align="left">📬 Contato</h2>
