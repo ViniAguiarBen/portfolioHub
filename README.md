@@ -65,7 +65,7 @@ Para uma visualização mais detalhada das minhas competências técnicas e comp
 
 ### 
 
-📄 Currículo
+<h2 align="left">📄 Currículo</h2>
 
 Meu currículo completo, com detalhes sobre formação acadêmica, experiências profissionais e certificações, está disponível para visualização e download.
 
