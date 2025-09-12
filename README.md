@@ -1,16 +1,3 @@
-<style>
-  /* Define a largura padrão (mobile-first) como 100% */
-  .preview-link img {
-    width: 100%;
-  }
-
-  /* Aplica 50% de largura apenas em telas maiores (desktops) */
-  @media (min-width: 768px) {
-    .preview-link img {
-      width: 50%;
-    }
-  }
-</style>
 <h1 align="left">👋 Olá, eu sou o Vinicius!</h1>
 
 ###
