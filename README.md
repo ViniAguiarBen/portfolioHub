@@ -79,4 +79,21 @@ Meu currículo completo, com detalhes sobre formação acadêmica, experiências
 
 <p align="left">🌐 Site Pessoal → https://vaguiarb.dev<br>💼 LinkedIn → https://linkedin.com/in/vinicius-aguiar000<br>📧 Email → viniciusaguiarbenvinda@gmail.com</p>
 
-###
+
+### 
+
+<h2 align="left">💬 Recomendações</h2>
+
+> "Tive o prazer de coordenar o trabalho do Vinicius no projeto de desenvolvimento voluntário para a Comunidade Shalom. Ele demonstrou grande iniciativa e habilidade técnica, liderando o desenvolvimento de nossa plataforma de doações com a integração via API da Asaas. Sua contribuição na automação de processos com Python e no deploy da aplicação com Docker e AWS foi crucial para o sucesso do projeto. O Vinicius é um desenvolvedor proativo, focado em entregar soluções de alta qualidade e com excelente capacidade para resolver problemas complexos. Ele foi um ativo inestimável para nossa equipe e eu o recomendo fortemente para qualquer desafio profissional."
+>
+> **- Padre Dennys**
+>
+> *Coordenador de Projetos de TI - Comunidade Católica Shalom*
+
+---
+
+> "Tive o prazer de trabalhar diretamente com o Vinicius no projeto de desenvolvimento voluntário... Sua proatividade e capacidade de aprendizado rápido eram notáveis. Além de suas habilidades técnicas com Docker, Nginx e AWS, o Vinicius sempre demonstrou um grande foco na qualidade do código e na documentação, facilitando a colaboração de toda a equipe. Ele é um desenvolvedor comunicativo, organizado e que não mede esforços para resolver problemas. Recomendo fortemente."
+>
+> **- Yuri Costa**
+>
+> *Desenvolvedor Voluntário - Comunidade Católica Shalom*
