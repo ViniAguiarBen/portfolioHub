@@ -1,9 +1,5 @@
 <h1 align="left">👋 Olá, eu sou o Vinicius!</h1>
 
-<h2 align="left">🚀Youtube Trabalho</h2>
-
-https://youtu.be/9Xf1mVlJkkE?si=sMO1VO16iFmtffIE
-
 ###
 
 <a href="https://vaguiarb.dev" target="_blank">
