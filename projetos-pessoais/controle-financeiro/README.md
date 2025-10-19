@@ -2,57 +2,88 @@
 
 ![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
-Um sistema web simples para gerenciamento de finanças pessoais, permitindo o cadastro e acompanhamento de receitas e despesas. Este projeto está sendo desenvolvido com Laravel.
+Um sistema web simples para gerenciamento de finanças pessoais, permitindo o cadastro e acompanhamento de receitas e despesas.  
+Este projeto está sendo desenvolvido com **Laravel**.
+
+---
 
 ## 📖 Sobre o Projeto
 
-Este projeto foi criado com o objetivo de aplicar e demonstrar conhecimentos no ecossistema Laravel, desenvolvendo uma aplicação real e funcional para controle de finanças.
+Este projeto foi criado com o objetivo de aplicar e demonstrar conhecimentos no ecossistema **Laravel**, desenvolvendo uma aplicação real e funcional para controle de finanças pessoais.
+
+---
 
 ## ✨ Funcionalidades
 
-* [ ] Dashboard com resumo mensal (receitas, despesas, saldo).
-* [ ] Cadastro, Edição e Exclusão de lançamentos (receitas e despesas).
-* [ ] Categorização de lançamentos (ex: Moradia, Alimentação, Lazer).
-* [ ] Autenticação de usuários (Login e Registro).
-* [ ] *[Adicione outras funcionalidades que seu app tenha]*
+- [ ] Dashboard com resumo mensal (receitas, despesas, saldo)  
+- [ ] Cadastro, edição e exclusão de lançamentos (receitas e despesas)  
+- [ ] Categorização de lançamentos (ex: Moradia, Alimentação, Lazer)  
+- [ ] Autenticação de usuários (Login e Registro)  
+- [ ] *[Adicione outras funcionalidades que seu app tenha]*
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **PHP**
-* **Laravel**
-* **MySQL**
-* **HTML5**
-* **Tailwind CSS** (ou Bootstrap, o que você tiver usado)
-* **JavaScript**
+- **PHP**  
+- **Laravel**  
+- **MySQL**  
+- **HTML5**  
+- **Tailwind CSS** (ou **Bootstrap**, caso tenha usado)  
+- **JavaScript**
+
+---
 
 ## ⚙️ Como Rodar o Projeto Localmente
 
-Siga os passos abaixo para configurar e executar o projeto em seu ambiente de desenvolvimento.
+Siga os passos abaixo para configurar e executar o projeto em seu ambiente de desenvolvimento:
 
-**1. Clonar o repositório (ou baixar o .zip):**
+### 1️⃣ Clonar o repositório (ou baixar o .zip)
 ```bash
-git clone [https://github.com/ViniAguiarBen/portfolioHub.git](https://github.com/ViniAguiarBen/portfolioHub.git)
-cd portfolioHub/projetos-pessoais/controle-financeiro´´´
+git clone https://github.com/ViniAguiarBen/portfolioHub.git
+cd portfolioHub/projetos-pessoais/controle-financeiro
+```
 
-**2. Instalar as dependências do Composer:**
+### 2️⃣ Instalar as dependências do Composer
 ```bash
-composer install```
+composer install
+```
 
-**3. Configurar o arquivo de ambiente:**
+### 3️⃣ Configurar o arquivo de ambiente
 ```bash
-cp .env.example .env```
+cp .env.example .env
+```
 
-**4. Gerar a chave da aplicação:**
+### 4️⃣ Gerar a chave da aplicação
 ```bash
-php artisan key:generate```
+php artisan key:generate
+```
 
-**5. Rodar as migrações do banco de dados:**
+### 5️⃣ Rodar as migrações do banco de dados
 ```bash
-php artisan migrate```
+php artisan migrate
+```
 
-**6. Iniciar o servidor local:**
+### 6️⃣ Iniciar o servidor local
 ```bash
-php artisan serve```
+php artisan serve
+```
 
-## Autor
-**Vinicius de Aguiar Benvinda**
+O projeto estará disponível em:  
+👉 **http://localhost:8000**
+
+---
+
+## 👨‍💻 Autor
+
+**Vinicius de Aguiar Benvinda**  
+🔗 [GitHub](https://github.com/ViniAguiarBen)
+
+---
+
+## ⚠️ Licença
+
+Este projeto é **proprietário e protegido por direitos autorais**.  
+**Não é permitida a cópia, modificação, redistribuição ou uso comercial** deste código sem autorização prévia e expressa do autor.
+
+© 2025 — **Vinicius de Aguiar Benvinda**. Todos os direitos reservados.
