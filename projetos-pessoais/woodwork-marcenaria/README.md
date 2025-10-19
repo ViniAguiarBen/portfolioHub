@@ -1,5 +1,9 @@
 # 🌲 Sistema de Gestão WoodWork (Projeto Privado)
 
+![Status do Projeto](https://img.shields.io/badge/status-concluído-green)
+
+## 📖 Sobre o Projeto
+...
 ## 📖 Sobre o Projeto
 
 Sistema de fluxo de produção (ERP) completo projetado sob medida para marcenarias. A plataforma contempla a gestão de pedidos, controle de estoque, acompanhamento de etapas de produção e automação de processos internos.
