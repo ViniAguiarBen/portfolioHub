@@ -32,7 +32,7 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente de de
 **1. Clonar o repositório (ou baixar o .zip):**
 ```bash
 git clone [https://github.com/ViniAguiarBen/portfolioHub.git](https://github.com/ViniAguiarBen/portfolioHub.git)
-cd portfolioHub/projetos-pessoais/controle-financeiro```
+cd portfolioHub/projetos-pessoais/controle-financeiro´´´
 
 **2. Instalar as dependências do Composer:**
 ```bash
