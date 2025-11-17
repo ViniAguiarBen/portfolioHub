@@ -4,20 +4,64 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PortfolioHUB - Vini Aguiar</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'fundo': '#1a202c',
+                        'card': '#2d3748',
+                        'texto': '#e2e8f0',
+                        'borda': '#4a5568',
+                    }
+                }
+            }
+        }
+    </script>
     <style>
-        body { font-family: Arial, sans-serif; margin: 40px; }
-        h1 { color: #333; }
+        body {
+            background-color: #1a202c; /* Cor 'fundo' */
+        }
     </style>
 </head>
-<body>
-    <h1>Meu PortfolioHUB</h1>
-    <p>Site em construção.</p>
-    
-    <h2>Meus Projetos</h2>
-    <ul>
-        <li><a href="projetos-pessoais/">Projetos Pessoais</a></li>
-        <li><a href="projetos-voluntarios/plataforma-doacoes-shalom/">Projetos Voluntários</a></li>
-        <li><a href="scripts-automacao/processador-formularios-iqvc/">Scripts de Automação</a></li>
-    </ul>
+<body class="bg-fundo text-texto">
+
+    <div class="container mx-auto max-w-4xl p-8">
+
+        <header class="text-center my-10">
+            <h1 class="text-5xl font-bold mb-2">PortfolioHUB</h1>
+            <p class="text-xl text-gray-400">Um hub centralizado para meus projetos acadêmicos e profissionais.</p>
+        </header>
+
+        <main>
+            <h2 class="text-3xl font-semibold mb-6">Meus Projetos</h2>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+
+                <a href="projetos-pessoais/" class="block p-6 bg-card rounded-lg border border-borda hover:bg-gray-700 transition-colors duration-300">
+                    <h3 class="text-2xl font-bold mb-2">Projetos Pessoais</h3>
+                    <p class="text-gray-400">Meus projetos e experimentos de desenvolvimento pessoal.</p>
+                </a>
+
+                <a href="projetos-voluntarios/plataforma-doacoes-shalom/" class="block p-6 bg-card rounded-lg border border-borda hover:bg-gray-700 transition-colors duration-300">
+                    <h3 class="text-2xl font-bold mb-2">Projetos Voluntários</h3>
+                    <p class="text-gray-400">Projetos desenvolvidos para causas e organizações.</p>
+                </a>
+
+                <a href="scripts-automacao/processador-formularios-iqvc/" class="block p-6 bg-card rounded-lg border border-borda hover:bg-gray-700 transition-colors duration-300">
+                    <h3 class="text-2xl font-bold mb-2">Scripts de Automação</h3>
+                    <p class="text-gray-400">Automações e scripts para otimização de processos.</p>
+                </a>
+                
+                </div>
+        </main>
+
+        <footer class="text-center text-gray-500 mt-12">
+            <p>&copy; 2025 Vini Aguiar. Desenvolvido com GitHub Pages e Tailwind CSS.</p>
+        </footer>
+
+    </div>
+
 </body>
 </html>
